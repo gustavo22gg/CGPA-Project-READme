@@ -1,6 +1,10 @@
 **🎓 CGPA Tracker App**
+
+
 Project Link: https://cgpa-development-project.onrender.com/
-- A comprehensive CGPA Tracking System designed to help students monitor their academic progress and set realistic GPA goals. This project automates data collection from the university portal, providing users with valuable insights into their academic performance and required improvements.
+
+A fully integrated CGPA Tracking System designed for students to monitor their academic progress efficiently, automate GPA calculations, and provide detailed insights on how to improve performance. The app uses a session-based scraper to gather the relevant academic data from university portals. This method ensures that users' grade data remains up-to-date without manual input, making it highly convenient for students aiming to achieve specific GPA goals.
+
 
 **🚀 Features** 
 
