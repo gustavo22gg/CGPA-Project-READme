@@ -12,6 +12,8 @@ A fully integrated CGPA Tracking System designed for students to monitor their a
 Upon logging in, users can check their targeted CGPA to see if their goals are achievable.
 
 Without entering any data manually, it scrapes the grades of the completed courses and the total credits, and calculates your targeted CGPA without any hassle of manual calculation
+
+
 <img width="692" alt="Targeted CGPA" src="https://github.com/user-attachments/assets/281c3d94-3fcc-45fe-99f7-189d176f5ccd">
 
 - Input your completed credits, current CGPA, and target CGPA.
